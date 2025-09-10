@@ -68,8 +68,9 @@ List 데이터를 JSP에서 반복문으로 출력 방법을 학습합니다.
 ### 실행 방법
 
 1. IDE에서 Tomcat 서버 실행
+    Edit Configurations 설정 필요
 2. 브라우저에서 아래 URL 접속    
-   http://localhost:8080
+   http://localhost:8080/
 
 --- 
 
